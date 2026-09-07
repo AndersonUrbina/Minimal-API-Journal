@@ -48,6 +48,3 @@ If the msg parameter is not provided, the API returns to HTTP 400 Bad Request.
 
 Every response includes the following header:  
 API: JournalApi 
-Every response includes the following header:  
-
-API: JournalApi 
