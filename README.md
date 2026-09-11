@@ -36,7 +36,7 @@ Returns the provided mesage and its length.
   "message": "Hello",  
   "length": 5  
 }  
-If the msg parameter is not provided, the API returns to HTTP 400 Bad Request.  
+If the msg parameter is not provided, the API returns an HTTP 400 Bad Request.  
 
 ## Example error response: 
 
@@ -49,6 +49,6 @@ If the msg parameter is not provided, the API returns to HTTP 400 Bad Request.
 Every response includes the following header:  
 API: JournalApi 
 
-## The application is running locally, and the API endpoint is being tested using Postman:
+## Screenshot of the application running locally. The API endpoint being tested using Postman:
 
 <img src="Images/img.png">
