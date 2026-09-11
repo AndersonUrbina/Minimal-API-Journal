@@ -48,3 +48,7 @@ If the msg parameter is not provided, the API returns to HTTP 400 Bad Request.
 
 Every response includes the following header:  
 API: JournalApi 
+
+## The application is running locally, and the API endpoint is being tested using Postman:
+
+<img src="Images/img.png">
