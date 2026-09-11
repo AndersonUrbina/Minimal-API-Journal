@@ -2,7 +2,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 var app = builder.Build();
 
-// Middleware: API
+// Middleware:
 app.Use(async (context, next) =>
 {
     context.Response.Headers.Append("API", "JournalApi");
